@@ -1,1 +1,3 @@
-var playlist
+var playlist { 
+  pink: 'who knew
+}
